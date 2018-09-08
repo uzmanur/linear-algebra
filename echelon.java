@@ -5,7 +5,7 @@ public class echelon {
 	public static void main(String[] args) {
 	
 	float[][] A = 
-		{	{0,	0,-2,0,7,12},
+		{	{0,0,-2,0,7,12},
 			{2,4,-10,6,12,28},
 			{2,4,-5,6,-5,-1}	};
 	
